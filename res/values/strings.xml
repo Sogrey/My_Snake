@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    
+    <string name="app_name">MySnake</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="txt_lst_head">英雄榜</string>
+    <string name="txt_lst_head_name">玩家</string>
+    <string name="txt_lst_head_scores">分数</string>
+    <string name="txt_lst_head_date">时间</string>
+    <string name="txt_main_score">score:</string>
+    <string name="btn_newgame_main">NEW GAME</string>
+    <string name="btn_rankinglist_main">RANKING LIST</string>
+    <string name="btn_help_main">HELP</string>
+    <string name="btn_exitgame_main">EXIT GAME</string>
+    <string name="msg_exitgame_main">Are you sure to exit?</string>
+    <string name="tit_gameover">GAME OVER</string>
+    <string name="msg_gameover">Your Score is %1$d\nPlease enter your name:</string>
+    <string name="txt_no_name">No name</string>
+
+</resources>
